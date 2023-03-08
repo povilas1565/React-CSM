@@ -18,9 +18,6 @@ The goal of this starter project is to create reusable project for real-world bu
 - ~~Use Formsy to manage form submission~~
 - ~~To simulate real-world business, this starter project chooses Json-Server as fake Restful API. (You can simple replace it with your own API)~~
 
-### Live Demo
-
-[Demo](https://react-app-demo.harryho.org) The demo is just a proof of concept. It doesn't have back-end API and all features of master branch.
 
 ### Screenshots
 
